@@ -1,6 +1,6 @@
 import RX from 'reactxp';
 
-const _styles = {
+const HomeStyle = {
     main: RX.Styles.createViewStyle({
         justifyContent: 'center',
         alignItems: 'center',
@@ -39,4 +39,4 @@ const _styles = {
     }),
 };
 
-export default _styles
+export default HomeStyle
